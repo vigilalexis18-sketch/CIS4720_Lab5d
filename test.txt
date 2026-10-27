@@ -1,0 +1,24 @@
+Last login: Mon Oct 26 23:06:59 on ttys000
+alexisv@Alexiss-MacBook-Air-3 ~ % touch filename.txt
+alexisv@Alexiss-MacBook-Air-3 ~ % test file
+alexisv@Alexiss-MacBook-Air-3 ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
